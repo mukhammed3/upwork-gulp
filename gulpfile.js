@@ -38,7 +38,7 @@ function imgTask() {
 //js
 
 //You can change JS way
-const jsPath = "src/**/*.js";
+const jsPath = "src/assets/**/*.js";
 
 function jsTask() {
   return src(jsPath)
