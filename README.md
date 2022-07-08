@@ -1,10 +1,14 @@
-# FOR START PROJECT
+## FOR START PROJECT
 
-\*\*\*) NPM INSTALL
+### `npm install`
 
-# FOR BUILD DIST FOLDER
+## FOR BUILD DIST FOLDER
 
-\*\*\*) Just write Gulp in terminal
+### `gulp`
 
 ///
+
+## About plugins
+
 In gulpfile.js we have 4 tasks for Html, Css, Js and Images.
+And we have plugins for minimize our images and js code.
