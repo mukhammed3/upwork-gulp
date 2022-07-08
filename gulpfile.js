@@ -17,7 +17,7 @@ function copyHtml() {
 
 //css
 //You can change CSS way
-const cssPath = "src/styles/**/*.css";
+const cssPath = "src/assets/css/**/*.css";
 function cssTask() {
   return src(cssPath)
     .pipe(sourcemaps.init())
